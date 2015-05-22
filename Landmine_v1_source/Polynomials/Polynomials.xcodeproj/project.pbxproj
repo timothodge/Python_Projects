@@ -6,10 +6,27 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		22CDD66C1B0FC63600D01CC9 /* Main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Main.py; sourceTree = "<group>"; };
+		22CDD66D1B0FC63600D01CC9 /* Monomial.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Monomial.py; sourceTree = "<group>"; };
+		22CDD66E1B0FC63600D01CC9 /* Monomial.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Monomial.pyc; sourceTree = "<group>"; };
+		22CDD66F1B0FC63600D01CC9 /* Point.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Point.py; sourceTree = "<group>"; };
+		22CDD6701B0FC63600D01CC9 /* Point.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Point.pyc; sourceTree = "<group>"; };
+		22CDD6711B0FC63600D01CC9 /* Polynomial.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Polynomial.py; sourceTree = "<group>"; };
+		22CDD6721B0FC63600D01CC9 /* Polynomial.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Polynomial.pyc; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		22F37A841B0E75490072E859 = {
 			isa = PBXGroup;
 			children = (
+				22CDD66C1B0FC63600D01CC9 /* Main.py */,
+				22CDD66D1B0FC63600D01CC9 /* Monomial.py */,
+				22CDD66E1B0FC63600D01CC9 /* Monomial.pyc */,
+				22CDD66F1B0FC63600D01CC9 /* Point.py */,
+				22CDD6701B0FC63600D01CC9 /* Point.pyc */,
+				22CDD6711B0FC63600D01CC9 /* Polynomial.py */,
+				22CDD6721B0FC63600D01CC9 /* Polynomial.pyc */,
 			);
 			sourceTree = "<group>";
 		};
@@ -177,6 +194,7 @@
 				22F37A8E1B0E75490072E859 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

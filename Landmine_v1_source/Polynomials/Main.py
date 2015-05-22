@@ -3,6 +3,9 @@ Created on Apr 22, 2014
 
 @author: Tim
 '''
+#Added a title comment to get sourcetree a new commit.
+#
+#
 
 import numpy as np #Have version 1.6.2 as of 4/28/14
 
