@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Main.py">
+   </FileRef>
+   <FileRef
+      location = "group:../Monomial.py">
+   </FileRef>
+   <FileRef
+      location = "group:../Monomial.pyc">
+   </FileRef>
+   <FileRef
+      location = "group:../Point.py">
+   </FileRef>
+   <FileRef
+      location = "group:../Point.pyc">
+   </FileRef>
+   <FileRef
+      location = "group:../Polynomial.py">
+   </FileRef>
+   <FileRef
+      location = "group:../Polynomial.pyc">
+   </FileRef>
+   <FileRef
+      location = "self:Polynomials.xcodeproj">
+   </FileRef>
+</Workspace>

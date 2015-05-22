@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>022CC0E7-EA6B-41A3-A45F-DB29CF067CFE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCCDCB68C9BA7B476E4F2423799860584FC0289F</key>
+		<string>https://github.com/timothodge/Python_Projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Landmine_v1_source/Polynomials/Polynomials.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCCDCB68C9BA7B476E4F2423799860584FC0289F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/timothodge/Python_Projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCCDCB68C9BA7B476E4F2423799860584FC0289F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCCDCB68C9BA7B476E4F2423799860584FC0289F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Python_Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
